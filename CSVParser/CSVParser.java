@@ -78,7 +78,9 @@ public class CSVParser{
     * Needs to split lines into cells. Not sure how I want to do this yet. 
     * TODO: figure this out
     */
-   private void splitLines(){}
+   private void splitLines(){
+   
+   }
 
    private int countQuotes(String line){
       int count = 0;
